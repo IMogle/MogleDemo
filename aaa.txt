@@ -1,0 +1,45 @@
+{
+	"requestTime": "20200327184742",
+	"companyId": "CCIC1000000",
+	"requestType": "api.driving-accident.insure",
+	"requestId": "40e56d7b129b49f4ae729d33a17c8b40",
+	"requestData": {
+		"stakeholderList": [
+			{
+				"credentialType": "01",
+				"credentialNo": "36213519721111005X",
+				"phoneNumber": "",
+				"relaType": 1,
+				"name": "吴荣政",
+				"roleType": 2
+			},
+			{
+				"credentialType": "01",
+				"credentialNo": "36213519721111005X",
+				"phoneNumber": "",
+				"relaType": 1,
+				"name": "吴荣政",
+				"roleType": 1
+			}
+		],
+		"effectiveTime": "20200605000000",
+		"extrainfor": "TDFA20360107000000000191,TDEA20360107000000000125,381548",
+		"attributedCompanyCode": "CCIC1440300",
+		"expiredTime": "20210604235959",
+		"planCode": "PA1609",
+		"faceAmount": 36900000,
+		"companyID": "CCIC1000000",
+		"wesurePolicyNo": "1020032767662412240296051680",
+		"premium": 38000,
+		"productCode": "EXD",
+		"freeInsuranceFlag": "N",
+		"issueDate": "20200327184742",
+		"paymentInfo": {
+			"orderNo": "1220032767647519214283800122",
+			"payTime": "20200327184740",
+			"paymentMode": 1,
+			"paymentAmount": 38000,
+			"transactionId": "4200000553202003274142439293"
+		}
+	}
+}
